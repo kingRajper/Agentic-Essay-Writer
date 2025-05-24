@@ -1,6 +1,3 @@
-Sure! Here's the full content formatted as a proper `README.md` file for you:
-
-````markdown
 # Agentic Essay Writer
 
 An interactive Agentic AI system for essay generation and management, featuring modular state tracking and multi-thread support with a user-friendly Gradio web interface.
