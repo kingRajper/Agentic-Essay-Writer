@@ -12,8 +12,7 @@ An interactive Agentic AI system for essay generation and management, featuring 
 - [Usage](#usage)  
 - [Code Structure](#code-structure)  
 - [How It Works](#how-it-works)  
-- [Contributing](#contributing)  
-- [License](#license)
+
 
 ---
 
