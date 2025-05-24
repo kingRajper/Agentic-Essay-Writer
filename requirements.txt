@@ -1,0 +1,9 @@
+langchain_openai
+dotenv
+langchain
+langchain_community
+langgraph
+gradio
+tavily-python
+langgraph-checkpoint-sqlite
+pydantic
